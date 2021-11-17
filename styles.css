@@ -1,0 +1,79 @@
+body {
+    font-family:'Source Sans Pro', sans-serif;
+    background:#ccebff;
+    color: black;
+    text-align: center;
+  }
+  
+  #title {
+    border-style: dotted;
+    border-radius: 20px;
+    }
+  
+  
+  #image {
+    border-style: solid;
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .botanic {
+    border-style: solid;
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .bondi {
+    border-style: solid;
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .rocks{
+    border-style: solid;
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .ferry {
+    border-style: solid;
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .manly {
+    border-style: solid;
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
